@@ -38,7 +38,7 @@ command line to see the rest of the tutorial.
   2. Type:	:q! <ENTER>.
      This exits the editor, DISCARDING any changes you have made.
 
-  3. Open this file back up using the command 'vim tom-vim-tutorial.txt'
+  3. Open this file back up using the command 'vim tom-vim-tut.txt'
 
   4. You will learn how to save a file later don't worry.
 
